@@ -1,6 +1,35 @@
 {
-    "title": "UML Class",
+    "title": "Лабораторная работа 5",
     "items": [
-        
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Структура объекта системы",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемый объект: База данных CRM-системы"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Class",
+                    "link": ""
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"" 
+        }
     ]
 }

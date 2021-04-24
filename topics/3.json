@@ -5,7 +5,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Описание алгоритма",
+                    "text": "Описание алгоритма в формате UML (Sequence)",
                     "class": "md-title"
                 }
             ]

@@ -1,0 +1,35 @@
+{
+    "title": "Лабораторная работа 7",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описание состава в формате UML (Component)",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемый объект: структура программных средств CRM-системы"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Component",
+                    "link": "https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/kurs/uml-component.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/NikolaiShu/NikolaiShu.github.io/blob/master/img/UML-Component.png?raw=true" 
+        }
+    ]
+}

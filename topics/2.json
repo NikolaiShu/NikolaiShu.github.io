@@ -23,13 +23,13 @@
             "data": [
                 {
                     "text": "Диаграмма UML Class",
-                    "link": ""
+                    "link": "https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/kurs/uml-class.txt"
                 }
             ]
         },
         {
             "type": "image",
-            "data":"" 
+            "data":"https://github.com/NikolaiShu/NikolaiShu.github.io/blob/master/img/UML-class.png" 
         }
     ]
 }
